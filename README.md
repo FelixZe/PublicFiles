@@ -1,4 +1,4 @@
 wordle.exe
 -> execute and press nothing, everything works without help
 
-!Firefox has to be installed
+Requirements: Firefox has to be installed
